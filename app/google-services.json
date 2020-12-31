@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "244311815276",
+    "project_id": "p2c-project-f5e8f",
+    "storage_bucket": "p2c-project-f5e8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244311815276:android:d1107c7f938091fb9c1449",
+        "android_client_info": {
+          "package_name": "com.example.p2c_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244311815276-8ju94eed1ri64vhl62o937mk71ehbthg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_6eSl_S2wPyf8Z4To53g44Tg3nY57rvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244311815276-8ju94eed1ri64vhl62o937mk71ehbthg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
